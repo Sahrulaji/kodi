@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-ic_idea">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="ic_idea" clip-path="url(#clip-ic_idea)">
+    <g id="Group_64" data-name="Group 64" transform="translate(1423 -2637)">
+      <path id="Union_1" data-name="Union 1" d="M0,40V0H40A40,40,0,1,1,0,40Z" transform="translate(-1423 2637)" fill="#ff8400"/>
+      <g id="idea_1_" data-name="idea(1)" transform="translate(-1397.444 2655.889)">
+        <g id="Group_64-2" data-name="Group 64" transform="translate(0)">
+          <g id="Group_63" data-name="Group 63">
+            <path id="Path_29" data-name="Path 29" d="M106.7,13.907C106.7,6.435,100.061,0,92.588,0A14.617,14.617,0,0,0,77.851,14.53a14.228,14.228,0,0,0,7.265,12.454,2.477,2.477,0,0,1,1.038,1.868,2.08,2.08,0,0,0,2.076,2.076h8.3a2.08,2.08,0,0,0,2.076-2.076,2.18,2.18,0,0,1,1.038-1.868A14.231,14.231,0,0,0,106.7,13.907ZM92.381,8.3a6.385,6.385,0,0,0-6.227,6.227,2.232,2.232,0,0,1-2.076,2.076A2.08,2.08,0,0,1,82,14.53,10.408,10.408,0,0,1,92.381,4.151a2.232,2.232,0,0,1,2.076,2.076A2.08,2.08,0,0,1,92.381,8.3Z" transform="translate(-77.851)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_66" data-name="Group 66" transform="translate(8.303 35.286)">
+          <g id="Group_65" data-name="Group 65" transform="translate(0)">
+            <path id="Path_30" data-name="Path 30" d="M191.667,435.2H181.289a.981.981,0,0,0-1.038,1.038v2.076a.981.981,0,0,0,1.038,1.038h1.038l1.868,1.661c0,.415.415.415.623.415h3.321c.208,0,.415,0,.83-.415l1.661-1.661h1.038a.981.981,0,0,0,1.038-1.038v-2.076A.981.981,0,0,0,191.667,435.2Z" transform="translate(-180.251 -435.2)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
