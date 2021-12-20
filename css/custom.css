@@ -1,0 +1,55 @@
+/* general */
+html{
+	scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Nunito';
+}
+
+/* navbar */
+.mr-50p{
+	margin-right: 50px;
+}
+.header-cta-text span {
+	color: #fff;
+    font-family: 'Nunito';
+}
+.header-cta-text span i{
+	color: #fff;
+}
+.main-menu nav > ul > li > a {
+	font-size: 16px;
+}
+
+/* slider */
+.slider-2-content h1 {
+	font-size: 52px;
+	line-height: 1.3;
+	margin-bottom: 24px;
+}
+.slider-2-content p {
+    margin-bottom: 32px;
+}
+.btn-circle {
+    border-radius: 50%;
+    padding: 24px;
+}
+.btn-circle i {
+    font-size: 32px;
+}
+
+/* secction */
+.black-bg-2 {
+    background: #333333;
+}
+
+/* gallery */
+.gallery-content h1 {
+    font-size: 32px;
+    margin-bottom: 14px;
+}
+
+/* footer */
+.fotter-link li {
+    padding-bottom: 8px;
+}
