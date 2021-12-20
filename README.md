@@ -1,2 +1,2 @@
 # kodi
-template company profile of kodi pictures
+template html company profile of kodi pictures
